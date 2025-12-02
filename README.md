@@ -5,157 +5,158 @@ This project presents a complete end-to-end analysis of the Olist Store dataset,
 
 # Tools Used: Power BI | Excel | Tableau | SQL
 
-The Olist Store Analysis project provides a complete end-to-end exploration of the Brazilian e-commerce marketplace dataset. The goal is to transform raw data into meaningful insights covering sales performance, customer behavior, product trends, and operational efficiency.
+The **Olist Store Analysis** project provides a complete end-to-end exploration of the Brazilian e-commerce marketplace dataset. The goal is to transform raw data into meaningful insights covering **sales performance, customer behavior, product trends, and operational efficiency.**
 
-This project includes interactive dashboards, cleaned data, and actionable insights that help businesses make data-driven decisions.
+This project includes **interactive dashboards, cleaned data** and **actionable insights** that help businesses make data-driven decisions.
 
 # 🚀 Project Overview
 
-This project analyzes the Olist e-commerce dataset to uncover patterns across:
+* This project analyzes the Olist e-commerce dataset to uncover patterns across:
 
-Sales & Revenue Trends
+* Sales & Revenue Trends
 
-Customer Demographics & Order Behavior
+* Customer Demographics & Order Behavior
 
-Product Category Performance
+* Product Category Performance
 
-Payment Type Distribution
+* Payment Type Distribution
 
-Shipping Performance & Delivery Times
+* Shipping Performance & Delivery Times
 
-Review Score Insights
+* Review Score Insights
 
-State & City-Level Market Distribution
+* State & City-Level Market Distribution
 
-The dashboards provide a 360° business view and support strategic decision-making for marketing, logistics, and sales teams.
+The dashboards provide a **360° business view** and support **strategic decision-making** for marketing, logistics, and sales teams.
 
 # 🛠️ Key Features
 
-✔️ End-to-End Interactive Dashboards built in Power BI, Tableau, and Excel
+* ✔️**End-to-End Interactive Dashboards** built in Power BI, Tableau, and Excel
 
-✔️ Advanced filters for state, city, category, time period, review score, weekday/weekend
+* ✔️ Advanced filters for **state, city, category, time period, review score, weekday/weekend**
 
-✔️ Drill-down analysis for deeper insights across KPIs
+* ✔️ **Drill-down** analysis for deeper insights across KPIs
 
-✔️ Automated KPIs such as:
+* ✔️ Automated KPIs such as:
 
-Total Orders
+* Total Orders
 
-Total Revenue
+* Total Revenue
 
-Profit %
+* Profit %
 
-Average Shipping Days
+* Average Shipping Days
 
-Year-over-Year Growth
+* Year-over-Year Growth
 
-Review Score Trends
+* Review Score Trends
 
-✔️ Identification of top/bottom states, cities, and product categories
+* ✔️ Identification of top/bottom **states, cities, and product categories**
 
-✔️ Insights into customer behavior, payment preferences, and logistics performance
+* ✔️ Insights into customer behavior, payment preferences, and logistics performance
 
 # 📈 Dashboard Highlights
-1. Sales & Revenue Dashboard
+**1. Sales & Revenue Dashboard**
 
-Monthly & yearly revenue trends
+* Monthly & yearly revenue trends
 
-Top-performing categories
+* Top-performing categories
 
-State & city-level sales heatmaps
+* State & city-level sales heatmaps
 
-2. Customer Behavior Dashboard
+**2. Customer Behavior Dashboard**
 
-Customer purchase frequency
+* Customer purchase frequency
 
-Review score distribution
+* Review score distribution
 
-Impact of delivery delays on satisfaction
+* Impact of delivery delays on satisfaction
 
-3. Shipping & Operations Dashboard
+**3. Shipping & Operations Dashboard**
 
-Average delivery time
+* Average delivery time
 
-Shipping performance by state
+* Shipping performance by state
 
-Delivery delays vs Review Score
+* Delivery delays vs Review Score
 
 # 📂 Dataset Description
 
 This project uses the Olist Brazilian E-commerce Public Dataset, consisting of:
 
-File	Description
-Customers	Customer details & regions
-Orders	Order status & timestamps
-Order Items	Product details per order
-Products	Category & product metadata
-Payments	Payment method used
-Reviews	Customer review scores & comments
-Sellers	Seller-level details
-Geolocation	City & state mapping
-🧹 Data Cleaning & Transformation
+File	                Description
+Customers	           Customer details & regions
+Orders	             Order status & timestamps
+Order Items	         Product details per order
+Products	           Category & product metadata
+Payments	           Payment method used
+Reviews            	 Customer review scores & comments
+Sellers	             Seller-level details
+Geolocation	         City & state mapping
 
-Performed using SQL, Power Query, and Excel:
+# 🧹 Data Cleaning & Transformation
 
-Removed duplicates & null values
+* Performed using SQL, Power Query, and Excel:
 
-Merged tables using primary/foreign keys
+* Removed duplicates & null values
 
-Calculated delivery times, review durations, profit metrics
+* Merged tables using primary/foreign keys
 
-Standardized category names
+* Calculated delivery times, review durations, profit metrics
 
-Created date hierarchies (Year, Quarter, Month, Week)
+* Standardized category names
+
+* Created date hierarchies (Year, Quarter, Month, Week)
 
 # 🧠 Key Insights
 
-📍 São Paulo, Rio de Janeiro, and Minas Gerais contribute the highest revenue
+* 📍 **Sao Paulo, Rio de Janeiro, and Minas Gerais** contribute the highest revenue
 
-🚚 Longer delivery times directly impact lower review scores
+* 🚚 Longer delivery times directly impact **lower review scores**
 
-💳 Most customers prefer credit card payments
+* 💳 Most customers prefer **credit card payments**
 
-🛍️ Certain categories significantly drive sales (e.g., Bed/Bath/Table, Health/Beauty)
+* 🛍️ Certain categories significantly drive sales (e.g., Bed/Bath/Table, Health/Beauty)
 
-📈 Sales peak during Q4 months
+* 📈 Sales peak during **Q4 months**
 
-⭐ High review scores correlate with faster shipping
+* ⭐ High review scores correlate with **faster shipping**
 
 # 🧰 Tech Stack
 
-Power BI – for interactive dashboarding
+* **Power BI** – for interactive dashboarding
 
-Tableau – advanced visuals & geospatial insights
+* **Tableau** – advanced visuals & geospatial insights
 
-Excel – data cleaning & quick analysis
+* **Excel** – data cleaning & quick analysis
 
-SQL – data transformation & joins
+* **SQL** – data transformation & joins
 
 # 🎯 Business Impact
 
-This project helps stakeholders:
+* This project helps stakeholders:
 
-Identify best-performing regions & products
+* Identify best-performing regions & products
 
-Improve supply chain & delivery speed
+* Improve supply chain & delivery speed
 
-Understand customer satisfaction drivers
+* Understand customer satisfaction drivers
 
-Design better marketing & pricing strategies
+* Design better marketing & pricing strategies
 
-Predict sales and optimize operations
+* Predict sales and optimize operations
 
 # 📜 Conclusion
 
 The Olist Store Analysis Project demonstrates a real-world business analytics workflow—
-from raw data → cleaned output → visual dashboards → actionable insights.
+**from raw data → cleaned output → visual dashboards → actionable insights.**
 
-It showcases strong skills in:
+* It showcases strong skills in:
 
-Data Analysis
+* Data Analysis
 
-Dashboard Design
+* Dashboard Design
 
-KPI Automation
+* KPI Automation
 
-Business Insight Generation
+* Business Insight Generation
