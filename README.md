@@ -87,13 +87,21 @@ This project uses the Olist Brazilian E-commerce Public Dataset, consisting of:
 |   File	      |             Description             |
 -------------------------------------------------------
 | Customers	    |   Customer details & regions        |
+
 | Orders	      |   Order status & timestamps         |
+
 | Order Items	  |   Product details per order         |
+
 | Products	    |   Category & product metadata       |
+
 | Payments	    |   Payment method used               |
+
 | Reviews       |   Customer review scores & comments |
+
 | Sellers	      |   Seller-level details              |
+
 | Geolocation	  |   City & state mapping              |
+
 
 # 🧹 Data Cleaning & Transformation
 
